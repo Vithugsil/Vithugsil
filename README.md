@@ -44,6 +44,6 @@
 <h3 style="text-align:justify">Hi, I'm Vitor... I'm a brazilian Software Engineering student who wants to become a great programmer. I've started studying coding because I'm really passionate about technology like robots, games, red team and mobile apps. You don't need remember my name because in some years you'll hear him a lot 😂😂.</h3>
 
 
-<h1 align="center"><font color="lightblue">Keep going and never give up</h1>
+<h1 align="center"><font color="#008080">Keep going and never give up</h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002557&height=120&section=footer"/>
